@@ -1,0 +1,5 @@
+export * from './pages/ClientPage'
+export * from './pages/ProductPage'
+export * from './components/Navbar'
+export * from './routes/DashboardRoutes'
+export * from './components/AppModal'
